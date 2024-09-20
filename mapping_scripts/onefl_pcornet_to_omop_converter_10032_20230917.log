@@ -1,0 +1,12 @@
+2023-09-17 09:04:27 INFO - Initializing cluster with the following settings:
+2023-09-17 09:04:27 INFO - Session ID: onefl_pcornet_to_omop_converter_10032_20230917
+2023-09-17 09:04:27 INFO - Data Dir: /inbox/processing/anouina/pyspark/pcornetcdm_to_omop_conversion/data
+2023-09-17 09:04:27 INFO - Work Dir: /inbox/processing/anouina/pyspark/pcornetcdm_to_omop_conversion/mapping_scripts
+2023-09-17 09:04:27 INFO - File: onefl_pcornet_to_omop_converter.py
+2023-09-17 09:04:27 INFO - Args: ['-j', 'update_mapping', '-sdb', 'CHAR_BND', '-mu', 'provider_specialty_concept_id']
+2023-09-17 09:04:27 INFO - Creating the cluster directory for onefl_pcornet_to_omop_converter_10032_20230917
+2023-09-17 09:04:27 INFO - Successfully wrote onefl_pcornet_to_omop_converter_10032_20230917 to /onefl_cluster/clusters/onefl_pcornet_to_omop_converter_10032_20230917/docker-compose.yml
+2023-09-17 09:04:27 INFO - Booting the cluster for onefl_pcornet_to_omop_converter_10032_20230917
+2023-09-17 09:04:32 INFO - Shutting down cluster with session id: onefl_pcornet_to_omop_converter_10032_20230917
+2023-09-17 09:04:53 INFO - Removing cluster directory for onefl_pcornet_to_omop_converter_10032_20230917
+2023-09-17 09:04:53 INFO - Processed finished in 00:00:25.77

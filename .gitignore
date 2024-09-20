@@ -1,0 +1,8 @@
+#Ignore Hidden MacOS System Files
+.DS_Store
+#Ignore Sensitive Files with Keys Passwords etc.
+data
+common/secrets.py
+# The prepending ! will make sure the example is tracked properly.
+!common/secrets_example.py:q
+!data_example
